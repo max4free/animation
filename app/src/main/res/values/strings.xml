@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="alpha">прозрачность</string>
+    <string name="combo">кобма</string>
+    <string name="rotate">поворот</string>
+    <string name="scale">масштабирование</string>
+    <string name="transformation">трансформирование</string>
+</resources>
